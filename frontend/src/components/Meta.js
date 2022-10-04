@@ -12,9 +12,9 @@ const Meta = ({ title, description, keywords }) => {
 };
 
 Meta.defaultProps = {
-  title: 'Welcome To Sri Lankan Unique Rides',
+  title: 'Welcome To Ceylon',
   description: 'Quality products for the best prices',
-  keywords: 'Clothing, Accessories',
+  keywords: 'Food Items, Quality Products',
 };
 
 export default Meta;
